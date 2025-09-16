@@ -23,11 +23,12 @@ Este repositório contém a **documentação** e o **protótipo** do sistema **R
 No momento, o projeto está na fase de **modelagem e prototipagem**, então ainda não há código-fonte implementado.
 
 ### Como acessar o conteúdo
-1. Abra os arquivos:  
-   - `projetodesoftware.pdf` → Documento principal do projeto.  
-   - `protótipo.pdf` → Protótipo de interface (sequência de telas).  
+1. Abra os arquivos:
+    [projetodesoftware.pdf](https://github.com/user-attachments/files/22352790/projetodesoftware.pdf)
+[prototipo.pdf](https://github.com/user-attachments/files/22352793/prototipo.pdf)
 
-2. Consulte também a **Wiki** do repositório para:  
+
+3. Consulte também a **Wiki** do repositório para:  
    - Planejamento do desenvolvimento.  
    - Requisitos funcionais e não funcionais.  
    - Casos de uso textuais.  
